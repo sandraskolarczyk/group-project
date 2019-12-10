@@ -4,7 +4,7 @@ body {
   background-color: white;
 }
 
-.one, .about {
+.about {
   text-align: center;
   font-style: italic;
   display: block;
