@@ -7,14 +7,6 @@ body {
 .one, .about {
   text-align: center;
   font-style: italic;
-  font-size: 3em;
-  margin-top: 0%;
-  margin-bottom: 0%;
-}
-
-h1 {
-  text-align: center;
-  font-style: italic;
   display: block;
   font-size: 2em;
   margin-block-start: 0.67em;
