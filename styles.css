@@ -184,20 +184,23 @@ h5 {
   display: flex;
 }
 ​
-.dishes {
-  border: 10px solid blue;
-}
-​
 .dishes img {
   max-width: 250px;
   height: 200px;
   width: 100%;
+  align-items: center;
 }
 
 .underresto {
   border: 10px;
   min-height: 300px;
   display: flex;
+  text-align: left;
+}
+
+.dishes {
+  flex: 33.33%;
+  padding: 5px;
 }
 
 .intro {
