@@ -126,7 +126,7 @@ input {
   width:50%;
 }
 
-input[type=submit] {
+button {
   background-color: #4CAF50;
   color: white;
   padding: 12px 20px;
@@ -136,7 +136,7 @@ input[type=submit] {
   width: 20%;
 }
 
-input[type=submit]:hover {
+button:hover {
   background-color: #45a049;
 }
 
