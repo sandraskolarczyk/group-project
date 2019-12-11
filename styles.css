@@ -204,3 +204,20 @@ h5 {
   margin-bottom: 40px;
   margin-top: 40px;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  border-radius: 100px;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.icon-bar {
+  text-align: center;
+}
