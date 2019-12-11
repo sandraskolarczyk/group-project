@@ -199,3 +199,8 @@ h5 {
   min-height: 300px;
   display: flex;
 }
+
+.intro {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
