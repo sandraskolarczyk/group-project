@@ -164,3 +164,15 @@ input[type=submit]:hover {
   margin-top: 60px;
   margin-bottom: 60px;
 }
+
+h4 {
+  background-color: #fff5e6;
+  border-bottom-style: solid;
+  font-size: 1.5em;
+}
+
+h5 {
+  background-color: #e6ffff;
+  border-bottom-style: solid;
+  font-size: 1.5em;
+}
