@@ -166,16 +166,14 @@ button:hover {
   margin-bottom: 60px;
 }
 
-h4 {
+h4, h5 {
   background-color: none;
   border-bottom-style: groove;
   font-size: 1.5em;
 }
 
-h5 {
-  background-color: none;
-  border-bottom-style: groove;
-  font-size: 1.5em;
+.h4 {
+  text-align:center;
 }
 
 .undercafes {
