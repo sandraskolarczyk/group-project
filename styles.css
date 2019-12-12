@@ -244,4 +244,5 @@ h4, h5 {
 
 .goto {
   text-align: center;
+  display: inline-block;
 }
