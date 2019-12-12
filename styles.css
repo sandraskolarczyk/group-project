@@ -227,3 +227,7 @@ h4, h5 {
   list-style: none;
   text-align: center;
 }
+
+a.girls {
+  font-style: italic;
+}
