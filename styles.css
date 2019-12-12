@@ -85,6 +85,7 @@ img {
   padding: auto;
   text-align: center;
   justify-content: space-evenly;
+  font-weight: bold;
 }
 
 
@@ -234,7 +235,7 @@ h4, h5 {
   list-style: none;
   text-align: center;
   font-size: 1.1em;
-  margin-top: 40px;
+  margin-top: 20px;
   margin-bottom: 40px;
   margin-left: 137px;
   margin-right: 137px;
