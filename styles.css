@@ -226,4 +226,5 @@ h4, h5 {
 .description {
   list-style: none;
   display: flex;
+  flex-direction: column;
 }
