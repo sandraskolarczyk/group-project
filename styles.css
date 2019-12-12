@@ -170,9 +170,12 @@ h4, h5 {
   background-color: none;
   border-bottom-style: groove;
   font-size: 1.5em;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .h4, .h5 {
+  align-items: baseline;
   text-align: center;
 }
 
@@ -180,6 +183,8 @@ h4, h5 {
   border: 10px;
   min-height: 300px;
   display: flex;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 ​
 .dishes img {
@@ -194,6 +199,8 @@ h4, h5 {
   min-height: 300px;
   display: flex;
   text-align: left;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 .dishes {
@@ -229,8 +236,14 @@ h4, h5 {
   font-size: 1.1em;
   margin-top: 40px;
   margin-bottom: 40px;
+  margin-left: 137px;
+  margin-right: 137px;
 }
 
 a.girls {
   font-style: italic;
+}
+
+.goto {
+  text-align: center;
 }
