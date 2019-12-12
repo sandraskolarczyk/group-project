@@ -222,3 +222,8 @@ h4, h5 {
 .icon-bar {
   text-align: center;
 }
+
+.description {
+  list-style: none;
+  display: flex;
+}
